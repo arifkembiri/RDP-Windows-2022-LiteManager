@@ -1,4 +1,4 @@
-name: Windows 10 - LiteManager (ArifKembiri)
+name: Windows 2022 - LiteManager (arifkembiri)
 
 on:
   workflow_dispatch:
